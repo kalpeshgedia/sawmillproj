@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sawmillproj/static/css/main.52737139.css",
-    "main.js": "/sawmillproj/static/js/main.ea2ef130.js",
+    "main.js": "/sawmillproj/static/js/main.31aef7cf.js",
     "static/media/Kiln Drying.jpeg": "/sawmillproj/static/media/Kiln Drying.a6ba2e14f793d24dac4b.jpeg",
     "static/media/Seraya.png": "/sawmillproj/static/media/Seraya.84c08acaf6d1814ea3f7.png",
     "static/media/homepage.jpg": "/sawmillproj/static/media/homepage.7429fd4e10f9d95230b4.jpg",
@@ -14,10 +14,10 @@
     "index.html": "/sawmillproj/index.html",
     "static/media/hero-bg.svg": "/sawmillproj/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
     "main.52737139.css.map": "/sawmillproj/static/css/main.52737139.css.map",
-    "main.ea2ef130.js.map": "/sawmillproj/static/js/main.ea2ef130.js.map"
+    "main.31aef7cf.js.map": "/sawmillproj/static/js/main.31aef7cf.js.map"
   },
   "entrypoints": [
     "static/css/main.52737139.css",
-    "static/js/main.ea2ef130.js"
+    "static/js/main.31aef7cf.js"
   ]
 }
