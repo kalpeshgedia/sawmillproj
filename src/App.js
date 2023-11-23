@@ -37,8 +37,8 @@ function App() {
       <Router>
         <ScrollToTop>
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/contact" element={<Contact />} />
+            <Route path="/sawmillproj" element={<Home />} />
+            <Route path="/sawmillproj/contact" element={<Contact />} />
           </Routes>
         </ScrollToTop>
       </Router>
