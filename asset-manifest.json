@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1dce5a1b.css",
+    "main.js": "/static/js/main.b8e2da7a.js",
+    "static/media/Kiln Drying.jpeg": "/static/media/Kiln Drying.a6ba2e14f793d24dac4b.jpeg",
+    "static/media/Seraya.png": "/static/media/Seraya.84c08acaf6d1814ea3f7.png",
+    "static/media/homepage.jpg": "/static/media/homepage.7429fd4e10f9d95230b4.jpg",
+    "static/media/Pressure-Treatment.jpeg": "/static/media/Pressure-Treatment.e948661954e629702ea4.jpeg",
+    "static/media/peeling-Veneer.webp": "/static/media/peeling-Veneer.da75b337b8ff481eb27e.webp",
+    "static/media/maranti-bukit.jpeg": "/static/media/maranti-bukit.c6742ef08eca161637df.jpeg",
+    "static/media/company-logo.png": "/static/media/company-logo.c676965427e08435a643.png",
+    "static/media/Woodworking.jpeg": "/static/media/Woodworking.f077e1cf0e8c1ba72d23.jpeg",
+    "static/media/footer.svg": "/static/media/footer.70b54bbe52a797ce69c1.svg",
+    "index.html": "/index.html",
+    "static/media/hero-bg.svg": "/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
+    "main.1dce5a1b.css.map": "/static/css/main.1dce5a1b.css.map",
+    "main.b8e2da7a.js.map": "/static/js/main.b8e2da7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dce5a1b.css",
+    "static/js/main.b8e2da7a.js"
+  ]
+}
